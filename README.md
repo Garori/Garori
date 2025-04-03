@@ -1,7 +1,5 @@
 ## Hello! Welcome to my Github Profile!
 
----
-
 I am currently an undergraduate of Computer Science Major in UFRJ (Unversidade Federal do Rio de Janeiro).
 I have 3 years of experience as a Full-stack developer on a Junior Enterprise and 3,5 years of experience as a RPA developer for Accenture.
 
